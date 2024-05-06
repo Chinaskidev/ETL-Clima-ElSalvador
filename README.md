@@ -42,3 +42,6 @@ En mi caso yo cree una imagen en  Docker por lo que le recomiendo que lea la doc
 
 Despues de leer la documentacion todo lo demas es pan comido, debe crear la base de datos en postgres y su Bucket en Google Cloud (si es que usa la plataforma de Google). <br>
 NOTA: Recuerde que debe crear Variables de la base de datos y el bucket de su proyecto de google cloud todo eso debe escribir en la plataforma de Airflow. 
+
+
+![Pipeline](pipeline.jpg)
